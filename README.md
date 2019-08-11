@@ -27,4 +27,4 @@ token:
 ==                                             |  10 / 100 |
 ```
 
-The login credentials will be saved to a file for subsequent submissions. Please see the [wiki](https://github.com/mstampfer/Coursera-Stanford-ML-Python/blob/master/Coursera%20Stanford%20ML%20Python%20wiki.ipynb) for a short tutorial on using Python.
+The login credentials will be saved to a file for subsequent submissions. Please see the [wiki](https://github.com/dxander/Coursera-Stanford-ML-Python/blob/master/Coursera%20Stanford%20ML%20Python%20wiki.ipynb) for a short tutorial on using Python.
